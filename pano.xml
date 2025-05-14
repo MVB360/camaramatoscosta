@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" appversion="7.1.7" start="node20" apprev="20981">
+  <panorama id="node20">
+    <input leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="258.068" fovmode="2">
+      <start projection="4" pan="173.453" fov="66.0758" tilt="-0.154332"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47529246" datetime="2025:04:17 21:27:42" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752925,-51.151322,3a,75y,84.61h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzqwM2LGgIS7YAAYP0!2e10" heading="258.068" title="Câmara Municipal de Matos Costa" altitude="1212.21" description="" customnodeid="" copyright="" longitude="-51.15132201" nodeid="node20" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="173.639" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="5.49832" url="{node19}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="85.4615" fovmode="2">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47528766" datetime="2025:04:17 21:27:34" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752877,-51.151267,3a,75y,85.46h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgxjj7M2gIS7oABJ0-!2e10" heading="85.4615" title="Câmara Municipal de Matos Costa" altitude="1214.12" description="" customnodeid="" copyright="" longitude="-51.15126703" nodeid="node19" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="181.032" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="5.49832" url="{node20}"/>
+      <hotspot pan="1.31341" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.61744" url="{node18}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="83.7761" fovmode="2">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47528526" datetime="2025:04:17 21:27:27" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752853,-51.1512409,3a,75y,83.78h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgxjj7M2gIS7sACohy!2e10" heading="83.7761" title="Câmara Municipal de Matos Costa" altitude="1212.76" description="" customnodeid="" copyright="" longitude="-51.15124087" nodeid="node18" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="179.628" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.61744" url="{node19}"/>
+      <hotspot pan="1.74449" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.68445" url="{node21}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="173.228" fovmode="2">
+      <start projection="4" pan="89.7773" fov="100" tilt="0.954817"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47528076" datetime="2025:04:17 21:24:45" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752808,-51.1511986,3a,75y,83.5h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzqwM2LGgIS88AAwVx!2e10" heading="173.228" title="Câmara Municipal de Matos Costa" altitude="1215.10" description="" customnodeid="" copyright="" longitude="-51.15119863" nodeid="node2" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="269.235" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.55012" url="{node21}"/>
+      <hotspot pan="180.201" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.64787" url="{node22}"/>
+      <hotspot pan="0.488462" id="Point03" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.11857" url="{node3}"/>
+      <hotspot pan="89.7722" id="Point04" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="4.40018" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="175.508" fovmode="2">
+      <start projection="4" pan="91.2252" fov="100" tilt="0.219057"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47529966" datetime="2025:04:17 21:25:20" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752997,-51.1511959,3a,75y,84.28h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzqwM2LGgIS9EADOrs!2e10" heading="175.508" title="Câmara Municipal de Matos Costa" altitude="1214.23" description="" customnodeid="" copyright="" longitude="-51.15119594" nodeid="node3" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="182.768" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.11857" url="{node2}"/>
+      <hotspot pan="91.6517" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="4.36373" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-97.4776" fovmode="2">
+      <start projection="4" pan="-91.5648" fov="100" tilt="-0.941758"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47529546" datetime="2025:04:17 21:25:37" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752955,-51.1511523,3a,75y,354.09h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzqwM2LGgIS9YAAltR!2e10" heading="-97.4776" title="Câmara Municipal de Matos Costa" altitude="1214.24" description="" customnodeid="" copyright="" longitude="-51.15115235" nodeid="node4" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-1.33387" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="4.36373" url="{node3}"/>
+      <hotspot pan="-91.2021" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.14893" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-94.5289" fovmode="2">
+      <start projection="4" pan="174.399" fov="100" tilt="-0.94274"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47527625" datetime="2025:04:17 21:25:45" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752763,-51.1511547,3a,75y,91.07h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzqwM2LGgIS-kABvOG!2e10" heading="-94.5289" title="Câmara Municipal de Matos Costa" altitude="1213.82" description="" customnodeid="" copyright="" longitude="-51.15115471" nodeid="node5" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-268.253" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.14893" url="{node4}"/>
+      <hotspot pan="-180.333" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="3.64773" url="{node6}"/>
+      <hotspot pan="2.01533" id="Point03" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="4.40018" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-91.2172" fovmode="2">
+      <start projection="4" pan="-172.818" fov="100" tilt="-0.429833"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47527385" datetime="2025:04:17 21:25:52" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752739,-51.1511182,3a,75y,81.6h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWLjJpbWgIS-oADp2C!2e10" heading="-91.2172" title="Câmara Municipal de Matos Costa" altitude="1213.46" description="" customnodeid="" copyright="" longitude="-51.15111816" nodeid="node6" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="2.97832" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="3.64773" url="{node5}"/>
+      <hotspot pan="-172.2" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.12845" url="{node10}"/>
+      <hotspot pan="-259.904" id="Point03" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.87221" url="{node8}"/>
+      <hotspot pan="-84.5103" id="Point04" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.28401" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="175.512" fovmode="2">
+      <start projection="4" pan="1.36146" fov="100" tilt="-0.0996065"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47525345" datetime="2025:04:17 21:26:00" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752535,-51.1511208,3a,75y,174.15h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgxjj7M2gIS-0ACUwi!2e10" heading="175.512" title="Câmara Municipal de Matos Costa" altitude="1213.60" description="" customnodeid="" copyright="" longitude="-51.15112084" nodeid="node7" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="2.2189" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.28401" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="264.836" fovmode="2">
+      <start projection="4" pan="179.684" fov="100" tilt="-2.5682"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47529036" datetime="2025:04:17 21:26:11" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752904,-51.1511145,3a,75y,85.15h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzqwM2LGgIS_0AAdQl!2e10" heading="264.836" title="Câmara Municipal de Matos Costa" altitude="1214.49" description="" customnodeid="" copyright="" longitude="-51.15111447" nodeid="node8" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="276.149" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.87221" url="{node6}"/>
+      <hotspot pan="179.735" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.17181" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="170.293" fovmode="2">
+      <start projection="4" pan="-96.3802" fov="100.306" tilt="-0.337404"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47528946" datetime="2025:04:17 21:26:17" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752895,-51.1511027,3a,75y,266.67h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgxjj7M2gITAEABAAB!2e10" heading="170.293" title="Câmara Municipal de Matos Costa" altitude="1216.10" description="" customnodeid="" copyright="" longitude="-51.15110274" nodeid="node9" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="265.192" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.17181" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-93.6397" fovmode="2">
+      <start projection="4" pan="105.768" fov="100" tilt="-0.942043"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47527085" datetime="2025:04:17 21:26:25" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752709,-51.151097,3a,75y,160.59h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgxjj7M2gITBEADmvn!2e10" heading="-93.6397" title="Câmara Municipal de Matos Costa" altitude="1213.22" description="" customnodeid="" copyright="" longitude="-51.15109704" nodeid="node10" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="5.37724" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.12845" url="{node6}"/>
+      <hotspot pan="-261.911" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.80683" url="{node12}"/>
+      <hotspot pan="-81.7561" id="Point03" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.94308" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="165.491" fovmode="2">
+      <start projection="4" pan="-2.59569" fov="100" tilt="-6.0837"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47525375" datetime="2025:04:17 21:26:33" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752538,-51.1511011,3a,75y,168.09h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzqwM2LGgITBUAARSj!2e10" heading="165.491" title="Câmara Municipal de Matos Costa" altitude="1214.49" description="" customnodeid="" copyright="" longitude="-51.15110106" nodeid="node11" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-2.62544" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.94308" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-92.5327" fovmode="2">
+      <start projection="4" pan="128.576" fov="100" tilt="-0.0565005"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47528676" datetime="2025:04:17 21:26:40" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752868,-51.1510933,3a,75y,138.89h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWLjJpbWgITBYACvgB!2e10" heading="-92.5327" title="Câmara Municipal de Matos Costa" altitude="1215.18" description="" customnodeid="" copyright="" longitude="-51.15109335" nodeid="node12" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-80.8043" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.80683" url="{node10}"/>
+      <hotspot pan="-231.093" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="0.756472" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="309.602" fovmode="2">
+      <start projection="4" pan="135.464" fov="100" tilt="-0.205819"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47529186" datetime="2025:04:17 21:26:48" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752919,-51.1510883,3a,75y,174.14h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgxjj7M2gITCkABlSK!2e10" heading="309.602" title="Câmara Municipal de Matos Costa" altitude="1215.89" description="" customnodeid="" copyright="" longitude="-51.15108832" nodeid="node13" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="351.041" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="0.756472" url="{node12}"/>
+      <hotspot pan="134.982" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.07219" url="{node14}"/>
+      <hotspot pan="224.368" id="Point03" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="0.803026" url="{node16}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="259.612" fovmode="2">
+      <start projection="4" pan="178.204" fov="100" tilt="-1.89171"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47530146" datetime="2025:04:17 21:26:56" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4753015,-51.1510873,3a,75y,81.41h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzqwM2LGgITC0ABgfk!2e10" heading="259.612" title="Câmara Municipal de Matos Costa" altitude="1215.73" description="" customnodeid="" copyright="" longitude="-51.15108731" nodeid="node14" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="264.992" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.07219" url="{node13}"/>
+      <hotspot pan="175.512" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="0.973618" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-97.5804" fovmode="2">
+      <start projection="4" pan="-7.11045" fov="100" tilt="-5.2676"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47530056" datetime="2025:04:17 21:27:03" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4753006,-51.1510776,3a,75y,269.53h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzqwM2LGgITC8AB95K!2e10" heading="-97.5804" title="Câmara Municipal de Matos Costa" altitude="1211.44" description="" customnodeid="" copyright="" longitude="-51.15107758" nodeid="node15" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-1.68071" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="0.973618" url="{node14}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="201.127" fovmode="2">
+      <start projection="4" pan="-67.771" fov="100" tilt="-6.72833"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47529126" datetime="2025:04:17 21:27:11" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752913,-51.1510803,3a,75y,268.9h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzqwM2LGgITD4ADvzw!2e10" heading="201.127" title="Câmara Municipal de Matos Costa" altitude="1213.94" description="" customnodeid="" copyright="" longitude="-51.15108028" nodeid="node16" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="295.893" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="0.803026" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-45.1588" fovmode="2">
+      <start projection="4" pan="141.62" fov="100" tilt="-0.392698"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47525615" datetime="2025:04:17 21:27:18" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752561,-51.1512288,3a,75y,173.22h,90t/data=!3m4!1e1!3m2!1sCIABIhAA3ilWLjJpbWgITEAACxM5!2e10" heading="-45.1588" title="Câmara Municipal de Matos Costa" altitude="1212.37" description="" customnodeid="" copyright="" longitude="-51.15122881" nodeid="node17" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-216.306" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="3.03959" url="{node21}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="260.052" fovmode="2">
+      <start projection="4" pan="175.991" fov="100" tilt="-6.32859"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47528316" datetime="2025:04:17 21:27:49" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.4752832,-51.1512241,3a,75y,84.06h,90t/data=!3m4!1e1!3m2!1sCIABIhADycKzqwM2LGgITEEABlxW!2e10" heading="260.052" title="Câmara Municipal de Matos Costa" altitude="1214.62" description="" customnodeid="" copyright="" longitude="-51.15122411" nodeid="node21" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="358.02" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.68445" url="{node18}"/>
+      <hotspot pan="268.905" id="Point02" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="3.03959" url="{node17}"/>
+      <hotspot pan="176.059" id="Point03" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="2.55012" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" width="1632" levelbias="0.400" overlap="1" leveltilesize="510">
+      <level width="1632" height="1632" preload="0" predecode="0"/>
+      <level width="816" height="816" preload="0" predecode="0"/>
+      <level width="408" height="408" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="170.286" fovmode="2">
+      <start projection="4" pan="-3.44353" fov="100" tilt="0.780716"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="140" scaletofit="1" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata source="" comment="" info="" latitude="-26.47526605" datetime="2025:04:17 21:27:59" tags="4CVMATOSCOSTASC" streetviewlink="https://www.google.com/maps/@-26.475266,-51.1512006,3a,75y,173.7h,90t/data=!3m4!1e1!3m2!1sCIABIhADydVgxjj7M2gITEkABtar!2e10" heading="170.286" title="Câmara Municipal de Matos Costa" altitude="1214.34" description="" customnodeid="" copyright="" longitude="-51.15120064" nodeid="node22" author=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" height="20" textcolor="0x000000" background="1" borderalpha="1" width="180" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-2.74069" id="Point01" tilt="0" target="$fwd" skinid="ht_node" title="Câmara Municipal de Matos Costa" description="" distance="1.64787" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="7" softedge="0" type="mesh" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1" zoomout="0" delay="none" blendtime="1" zoomfov="40" blendcolor="0x000000" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedwheel="0" invertwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0" simulatemass="1" lockedmouse="0" contextvr="1" zoomcentercursor="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" rubberband="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" comment="" description="" copyright="" author="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
